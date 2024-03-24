@@ -1,0 +1,1 @@
+# Configuracao-do-Dominio-no-Nextcloud
